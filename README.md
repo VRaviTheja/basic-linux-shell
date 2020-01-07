@@ -1,4 +1,4 @@
-# Basic-Linux-Shell
+# Basic-Linux-Shell (Job Spooler)
 The goal of this assignment is to become familiar with low-level Unix/POSIX system
 calls related to processes, signal handling, files, and I/O redirection.
 You will implement a job spooler program, called jobber, that accepts user
