@@ -7,22 +7,18 @@ show the status of jobs, and expunge terminated jobs from the system.
 
 
 ## Takeaways
+This project involves:
 
-After completing this assignment, you should:
-
-• Understand process execution: forking, executing, and reaping.
-
-
-• Understand signal handling.
+• Process execution: forking, executing, and reaping.
 
 
-• Understand the use of "dup" to perform I/O redirection.
+• Signal handling.
 
 
-• Have a more advanced understanding of Unix commands and the command line.
+• Use of "dup" to perform I/O redirection.
 
 
-• Have gained experience with C libraries and system calls.
+• Advanced usage of Unix commands and the command line.
 
 
-• Have enhanced your C programming abilities.
+• Usage of C libraries and system calls.
